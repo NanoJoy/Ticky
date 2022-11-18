@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ticky": {
+      "commandName": "Project",
+      "commandLineArgs": "9 9 3 X N"
+    }
+  }
+}

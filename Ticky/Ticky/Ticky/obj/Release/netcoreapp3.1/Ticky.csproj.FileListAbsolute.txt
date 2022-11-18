@@ -1,0 +1,11 @@
+D:\Projects\Ticky\Ticky\Ticky\bin\Release\netcoreapp3.1\Ticky.exe
+D:\Projects\Ticky\Ticky\Ticky\bin\Release\netcoreapp3.1\Ticky.deps.json
+D:\Projects\Ticky\Ticky\Ticky\bin\Release\netcoreapp3.1\Ticky.runtimeconfig.json
+D:\Projects\Ticky\Ticky\Ticky\bin\Release\netcoreapp3.1\Ticky.runtimeconfig.dev.json
+D:\Projects\Ticky\Ticky\Ticky\bin\Release\netcoreapp3.1\Ticky.dll
+D:\Projects\Ticky\Ticky\Ticky\bin\Release\netcoreapp3.1\Ticky.pdb
+D:\Projects\Ticky\Ticky\Ticky\obj\Release\netcoreapp3.1\Ticky.csprojAssemblyReference.cache
+D:\Projects\Ticky\Ticky\Ticky\obj\Release\netcoreapp3.1\Ticky.AssemblyInfoInputs.cache
+D:\Projects\Ticky\Ticky\Ticky\obj\Release\netcoreapp3.1\Ticky.AssemblyInfo.cs
+D:\Projects\Ticky\Ticky\Ticky\obj\Release\netcoreapp3.1\Ticky.dll
+D:\Projects\Ticky\Ticky\Ticky\obj\Release\netcoreapp3.1\Ticky.pdb
